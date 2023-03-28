@@ -1,0 +1,504 @@
+How can I prepare myself to be a software engineer at Google?
+Answer in this question is also relevant to:
+How can I prepare myself to be a good software engineer?
+Want Answers2.1k
+Comments2+
+Write Answer
+22 ANSWERS
+2,139 WANT ANSWERS
+333,031 VIEWS
+EDITS
+￼
+Gaurav Jha
+Software Engineer at Google
+Upvote • 6.8k upvotes by Jeyenth Veerarahavan, SrikanthVihari Kothapalli, Lokesh Gopu, (more)
+6 Important Points from a Googler's Perspective.
+Before I provide you the list of courses, read Point 1, 2.
+Full-time working professionals—Read this answer "selectively" on the basis of your industry experience and academic knowledge.
+Pre-University Students—Skip everything and Jump to Point 7.
+
+# Point 1: Lets Get to the actual Question i.e.
+
+How can I prepare myself to be a "good" software engineer?
+
+Yep! Rest of the question is optional. Joining Google is not a moonshot. Any Good software Engineer has Good chances to be part of Google work-culture.
+Problem is how you define "Good".
+** Point 2: Attitude Adjustment.
+
+Before you impress recruiters at Google, Lets see if a software engineering role at Google is something you actually want.
+
+Software engineering is not as fun as the popular notion says about it. Apart from UI/UX positions, in general, no matter what text editor you use—Eclipse, Vim or Emacs—Your screen will be Black, Boring & Dull. A full-time software engineering role not only requires an ability to work on complex algorithms but enough tolerance and patience to focus on meticulous details of a large program.
+
+At Google, in general, most software engineering role comes down to nothing but mathematics. It doesn't matter how many languages you know or how cool you are with Java, C, C++ etc.
+
+What matters are these four objectives:
+Your ability to create efficient algorithm.
+Your meticulous skills to read codes written by others and spot issues in it, if any.
+Your curiosity to learn and implement new technology trends and adapt with demand.
+Last but most important: What you Build, how you Build?
+
+I must point out that attaining these four objectives is not easy. Most of us at Google have hard time reaching these objectives but we try, so should you.
+
+Everyone has different approach towards learning. For me, I read one research paper links I find on Quora(May/May not be related to CS) and one research papers at Google(Internal records)—everyday.
+
+When you join Google, you will have access to all code base, database, forums, research papers and projects which will provide you a great support in learning things which you won't find on Wikipedia...
+
+...but while you are preparing on your way to be at Google, there are few things which are common in the process of learning. In point #5, you will learn more about it—how to reach these four objectives—but before there're some pre-requisites that needs to be looked upon. So, Lets go to next step. i.e.
+# Point 3: Guide for Technical Development in 2014—From Google.
+
+Having a solid foundation in Computer Science is important in being a successful Software Engineer. Following guide from Google is a suggested path for University students to develop their technical skills academically and non-academically through self paced hands-on learning. You may use the following course guide to determine courses to take but please make sure you are taking courses required for your major or faculty in order to graduate. The online resources provided in this guide are not meant to replace courses available at your University. However, they may help supplement your learning or provide an introduction to the topic.
+Using this guide:
+Please use this guide at your discretion
+There may be other things you want to learn or do outside of this guide - go for it!
+
+** Point 4: Recommendations for Academic Learning.
+
+Introduction to CS Course
+Notes: Introduction to Computer Science Course that provides instructions on coding.
+Online Resources:
+Udacity - intro to CS course,
+Coursera - Computer Science 101
+
+Code in at least one object oriented programming language: C++, Java, or Python
+Beginner Online Resources:
+Coursera - Learn to Program: The Fundamentals,
+MIT Intro to Programming in Java,
+Google's Python Class,
+Coursera - Introduction to Python,
+Python Open Source E-Book
+
+Intermediate Online Resources:
+Udacity's Design of Computer Programs,
+Coursera - Learn to Program: Crafting Quality Code,
+Coursera - Programming Languages,
+Brown University - Introduction to Programming Languages
+
+Learn other Programming Languages
+Notes: Add to your repertoire - Java Script, CSS, HTML, Ruby, PHP, C, Perl, Shell. Lisp, Scheme.
+Online Resources: w3school.com - HTML Tutorial, Learn to code
+
+Test Your Code
+Notes: Learn how to catch bugs, create tests, and break your software
+Online Resources: Udacity - Software Testing Methods, Udacity - Software Debugging
+
+Develop logical reasoning and knowledge of discrete math
+Online Resources:
+MIT Mathematics for Computer Science,
+Coursera - Introduction to Logic,
+Coursera - Linear and Discrete Optimization,
+Coursera - Probabilistic Graphical Models,
+Coursera - Game Theory.
+
+Develop strong understanding of Algorithms and Data Structures
+Notes: Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), and data structures (binary search trees, red-black trees, hash tables), Big O.
+Online Resources:
+MIT Introduction to Algorithms,
+Coursera - Introduction to Algorithms Part 1 & Part 2,
+Wikipedia - List of Algorithms,
+Wikipedia - List of Data Structures,
+Book: The Algorithm Design Manual
+
+Develop a strong knowledge of operating systems
+Online Resources: UC Berkeley Computer Science 162
+
+Learn Artificial Intelligence Online Resources:
+Stanford University - Introduction to Robotics, Natural Language Processing, Machine Learning
+
+Learn how to build compilers
+Online Resources: Coursera - Compilers
+
+Learn cryptography
+Online Resources: Coursera - Cryptography, Udacity - Applied Cryptography
+
+Learn Parallel Programming
+Online Resources: Coursera - Heterogeneous Parallel Programming
+
+
+
+
+** Point 5: Recommendations for Non-Academic Learning.
+
+Work on project outside of the classroom.
+Notes: Create and maintain a website, build your own server, or build a robot.
+Online Resources: Apache List of Projects, Google Summer of Code, Google Developer Group
+
+Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug things.
+Notes: Github is a great way to read other people’s code or contribute to a project.
+Online Resources: Github, Kiln
+
+Work on project with other programmers.
+Notes: This will help you improve your ability to work well in a team and enable you to learn from others.
+
+Practice your algorithmic knowledge and coding skills
+Notes: Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest.
+Online Resources: CodeJam, ACM ICPC
+
+Become a Teaching Assistant
+Notes: Helping to teach other students will help enhance your knowledge in the subject matter.
+
+Internship experience in software engineering
+Notes: Make sure you apply for internships well in advance of the period internships take place. In India and US, Internships take place during the summer, May-September, and applications are usually open several months in advance.
+Online Resources: google.com/jobs
+
+
+
+
+# Point 6: Google Recommended/Sponsored Programs and Groups.
+
+Few Additional Course you may choose to subscribe with respect to your domain or interest. These courses and programs are a great place to learn but they don't increase or decrease your chances to join Google—They are not equivalent to Internship. (More Info from Robert Love)
+
+Google Course—Making Sense of Data
+￼
+This self-paced, online course is intended for anyone who wants to learn more about how to structure, visualize, and manipulate data
+
+Google Course—BOLD Discovery
+This two-day interactive conference will provide students between their first and second years of college with an introduction to Google culture and potential careers at the company.
+
+Google Summer of Code
+Google Summer of Code (GSoC)
+A global online program offering post-secondary student developers ages 18+ stipends to write code for various open source software projects.
+
+Google Policy Fellowship
+This program offers students the opportunity to spend the summer working on Internet and technology policy issues at public interest organizations
+
+Google Student Veterans Summit
+The Google Student Veterans Summit includes a professional development curriculum geared towards veterans' transitions into the workplace.
+
+Also Read: Ellen Spertus's views on How can I effectively use my last two years of college to prepare for a great Software Engineering job at Google/FB or a startup?
+
+
+
+
+** Point 7: Recommendation for Courses in Mathematics.
+(For Pre-University Students)
+
+Personal View: Any attempt to ignore these subjects will put you in the category of average programmers who learn things in completely wrong way.
+
+Staying prepared much before would make coding much more enjoying. There are few pre-requisites, for software-engineering, which you need to understand the core of algorithm. Most mistakes created by software engineers could have been avoided if they would've recalled the simple things from school education.
+
+In your further studies in Maths or Computer Science, You will realize the importance of "Data Structure in your college days" and importance of "Machine Learning in your post-graduate days". So, Following are detailed list of courses you must master in-order to design complex algorithms. For college-graduates, if you had ignored these subject, I highly recommend you should revise it in the best possible way you can.
+
+After you're done with introductory syllabus from your school books, practice the following courses for deeper understanding. Most college students (even working professionals) underestimate the importance of these courses and end up being just another average programmers:
+
+Linear Algebra
+1. Linear Algebra | Mathematics | MIT OpenCourseWare (Recommended by Me)
+2. Coding the Matrix: Linear Algebra Through Computer Science Application (Recommended by a coworker)
+
+Learning these will help you understand Regression Model in future—The basic step of Machine Learning. You won't be taught these linear algebra courses in any school, colleges, research labs or institution. Learn it on your own.
+
+Calculus
+1. Calculus 1 - Ohio State University
+2. Pre-Calculus Courses - Universitat Autonoma de Barcelona
+3. Calculus for Beginners and Artists - MIT
+
+Statistics & Probability
+1. Statistics One
+2. RNG, Advanced Placement — stattrek.com
+
+Note: By the time you reach college and graduate, the syllabus would've moved towards Machine Learning algorithms. To most college students, mathematics gives them a pretty hard time for first 3 months of Machine Learning courses and by the time they catch up, syllabus moves to more sophisticated areas of ML, such as Deep Learning, Neural Networks & NNSP.
+
+
+# Pre-University: Google Recommended/Sponsored Programs.
+
+Google Code-in (GCI)
+A contest introducing pre-university students, ages 13-17, to the many kinds of contributions that make open source software development possible.
+
+RISE Awards
+Google RISE is a partnership and awards program designed to promote and support STEM and Computer Science education initiatives for K-12/Primary and Secondary/Class 10th and 12th students around the world.
+
+LEAD Computer Science Institute (LEAD-CSI)
+This program exposes middle and high school students from diverse communities to colleges and careers in the Science, Technology, Engineering and Math (STEM) fields.
+
+Made with Code
+Coding is the new literacy - it carries the potential to create, to innovate, and quite literally change the world. This initiative is designed to inspire millions of girls to experience the power of code.
+
+High School Symposium
+This is a one day program designed to provide high-achieving high school seniors with valuable business skills before starting college.
+
+Trailblazer
+Trailblazer is a global network of leaders, advocates, and ambassadors for computer science education who will be charged with empowering youth and educators around the globe to be connected to and inspired by computer science.
+
+Google Science Fair
+The Google Science Fair is a global competition open to 13-18 olds. Students submit a project online for a chance to win amazing prizes.
+
+Computer Science Summer Institute (CSSI)
+CSSI is a 3-week summer program for incoming college freshmen (current high school seniors) who are interested in studying computer science.
+
+Maker Camp on Google+
+30 days of Do It Yourself and making. Maker Camp is a free virtual summer camp on Google+, open to all
+Maker Camp 2013: Supercharge Your Summer! 
+
+Connected Classrooms
+Collaborate with teachers and education organizations to offer experiential learning opportunities for K-12 students on Google+.
+
+
+Fields marked in asterisk.
+#  Optional.
+** Mandatory.
+
+Coming Soon in This Answer:
+Post-Graduate Students(Majoring in any fields related to Physics, Mathematics, CS)—Answer will be updated this Friday.
+PHd students(Research in the field of Physics, C-Neuroscience, Maths, CS)—Answer will be updated this Friday.
+Updated 1 Sep, 2014. 272,929 views.
+Upvote6.8k
+Downvote
+Comments73+
+￼
+Niranjan Bengaluru
+Upvote • 97 upvotes by Abhishek Bind, Jagjeet Sian, Ronit Chanana, (more)
+￼
+​
+​One does not simply walk into the Googleplex. The company receives upwards of 2.5 million job applications a year, but only hires about 4,000 people.
+
+For would-be Googlers, the Google in Education team has released a list of skills that they want to see in potential engineers through self-paced, hands-on learning.
+
+Google wants its tech talent to master the below skills, complete with online resources to get you started...
+
+#1. Learn To Code
+
+Learn to code in at least one object-oriented programming language, like C++, Java, or Python. Consult MIT or Udacity.
+
+Coding is taking an algorithm & implementing it out. Even a 10-year-old can follow the instructions to code, but that won’t make that code extensible and scalable.
+
+#2. Test your code
+
+It’s not just important to know how to code. You should also be able to test code, because Google wants you to be able to 'catch bugs, create tests, and break your software.'
+
+#3. Have some background in abstract math
+
+It is important to have some background in abstract math, like logical reasoning and discrete math, which lots of computer science draws on.
+
+#4. Get to know operating systems
+
+Get to know operating systems, for they'll be where you do much of your work.
+
+#5. Become familiar with artificial intelligence
+
+Become familiar with artificial intelligence. Google loves robots.
+
+#6. Understand algorithms and data structures
+
+Learn about fundamental data types like stacks, queues and bags as well as grasp sorting algorithms like quicksort, mergesort and heapsort.
+
+#7. Learn cryptography
+
+Learn cryptography. Remember, cybersecurity is crucial.
+
+#8. Learn how to build compilers
+
+Stanford says that when you do that, 'you will learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines.'
+
+#9. Learn other programming languages
+
+Add Java Script, CSS, Ruby and HTML to your skillset. W3school and CodeAcademy are there to help.
+
+#10. Learn parallel programming
+
+Also, learn parallel programming because being able to carry out tons of computations at the same time is powerful.
+------------------------------------------------
+
+Outside of your curriculum and outside of what your professor has asked you to do, do one thing on your own in this Computer Science space, because if you’re willing to join Google for a career, you’ve got to be excited about this space.
+
+For example, if you’re a computer science student, do a side project, a computer science project on your own, one open source contribution on your own. Not the typical bug fixes.
+
+www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html
+Akshay Dixit's answer to How did Akshay Dixit get his Google internship?
+How Google sets goals and measures success:
+dondodge.typepad.com/the_next_big_thing/2010/01/how-google-sets-goals-and-measures-success.html
+Updated 11 Feb. 12,721 views.
+Upvote97
+Downvote
+Comment1
+￼
+Atiqur Rahman
+I write Code!!!
+Upvote • 70 upvotes by Yash Vanjani, Suchitra Deekshitula, Tung Nguyen, (more)
+Here are the skills Google wants its tech talent to master, complete with online resources to get you started:
+1. Mastering the foundation. You have to be able to get through an introduction to CS course, like the ones from Udacity or Coursera.
+2. Learn to code in at least one object-oriented programming language.Like C++, Java, or Python. Consult MIT or Udacity.
+3. Learn other programming languages. Add Java Script, CSS, Ruby, and HTML to your skillset. W3school and CodeAcademy are there to help.
+4. Test your code. Because Google wants you to be able to "catch bugs, create tests, and break your software." Udacity, once again.
+5. Have some background in abstract math. Like logical reasoning and discrete math, which lots of computer science draws on. MIT can help you with mathematics for computer science.
+6. Understand algorithms and data structures. Google wants you to learn about fundamental data types like stacks, queues, and bags, as well as grasp sorting algorithms like quicksort, mergesort, and heapsort. MIT provides the recommended online resources, and the book "The Algorithm Design Manual" is super helpful, too.
+7. Get to know operating systems. Because they'll be where you do much of your work. The University of California, Berkeley, provides a primer.
+8. Become familiar with artificial intelligence. Google loves robots. Stanford has the knowledge.
+9. Learn how to build compilers. Stanford says that when you do that, "you will learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines." Head to Coursera for the learning.
+10. Learn cryptography. Because cybersecurity is crucial. Coursera andUdacity provide courses.
+11. Learn parallel programming. Because being able to carry out tons of computations at the same time is super powerful. The University of Illinois can help you out.
+But Google doesn't just look at skills in its select candidates
+Source:-http://www.businessinsider.in/11...
+Written 2 Mar. 3,071 views.
+Upvote70
+Downvote
+Comments1+
+￼
+Chris Hansen
+Software Architect with Experticity, and Overstock.com previously
+Upvote • 43 upvotes by Sohan Badade, Pronoy Roy, Kanishck Tewatia, (more)
+In all honesty, I mean no offense to Google when I say this, but why limit yourself like that? Google is a great place to work but what would the world be like if Sergey and Larry would have asked "How do I get a job at Microsoft?"
+Written 5 Mar. 2,685 views.
+Upvote43
+Downvote
+Comment1
+Originally answered on What should I do to get a job in Google?
+￼
+Bismoy Murasing
+You don't know me yet . You think you know but you don't :P
+Upvote • 16 upvotes by Ankit Bisla, Ankit Bhagat, Pushkar Pandey, (more)
+There are two ways :
+
+Either you need to have a really really impressive background with strong(I mean really strong...like blazing fast ) coding ability , should be flawless in algorithmic knowledge and Maths . [ Because Luck doesn't favor all , believe me , you might be good in stuffs but if you don't click within that 45 mins , noone cares who you are or what you are !! ]
+Or, you have worked / are working on an app which has / about to have more than a million users , then you won't even require interviews , Tech Giants other than Google would love to have you in their Team !
+
+P.S. Be an Over-achiever and you would be in a position to turn down Google !
+Written 14 Dec. 1,379 views.
+Upvote16
+Downvote
+Comment
+￼
+Christopher J. Su
+SWE Intern – Summer '15
+Upvote • 37 upvotes by Sandeep Arron, Chetan Bhatt, Mohamed Mahmoud, (more)
+Using Quora's search feature, I found:
+What skills are needed to get a software engineering job at companies like Google and Facebook?
+What kind of engineering is best to become a software developer at tech companies like Google and Facebook?
+How can I prepare myself to be a software engineer at Google?
+Job Interviews: What are the ways to utilize 6 months to build skill-set to get hired at Facebook or Google?
+What should I expect in a Software Engineer interview at Google and how should I prepare?
+How can I effectively use my last two years of college to prepare for a great software engineering job at Google, Facebook or a startup?
+What kind of projects will get me a job at Google?
+How do I get job at Google?
+How can I get a job at Google?
+What does it take to get a job at Google?
+How can I get a job at Google?
+How do I get a job at Google without a competitive background?
+What is the best way to get a job at Google?
+Written 2 Sep, 2014. 7,374 views. Not for Reproduction .
+Upvote37
+Downvote
+Comments1+
+￼
+Chetan Bhasin
+A student. A writer. A developer.
+Upvote • 6 upvotes by Aaveg Sheth, Mohammad Husain, Aayush ku. Karwatkar, (more)
+1. Practice as much as you can.
+2. Learn some important algorithms. Try "Introduction to Algorithms" book. Or take up the "Algorithmic Thinking" course at Coursera.
+3. Take part in contests so that you know where you stand. Try HackerRank.
+4. Keep an eye on Google based projects such as GSoC and Code Jam.
+
+P.S. Google is not the only great company for programmers. Keep your mind open just as much as you should keep your eyes open. All the best!
+Written 11 Mar. 257 views.
+Upvote6
+Downvote
+Comment
+Originally answered on How can I get a job at Google?
+￼
+Saurabh Kumar Mishra
+where there is a shell, there is a way
+Upvote • 5 upvotes by Raja Godasi, Ayan Chandra, Dikshant Sharma, (more)
+Just focus on removing the "no" from the description and you are good to go.
+
+P.S.: Don't literally just edit and remove that "no".
+Written 26 Aug, 2014. 832 views.
+Upvote5
+Downvote
+Comment
+￼
+Amit Jambotkar
+Trying to build next big thing for world
+Upvote • 23 upvotes by Lehar Bhandari, Pushkar Narayan, Aditya Deepak, (more)
+Learn to live a life...be a passionate about what you do..may not be Google but you may land somewhere else where journey is far better than being in Google....simple
+Written 15 Jan. 1,961 views.
+Upvote23
+Downvote
+Comment1
+￼
+Arka Bhattacharjee
+Quracious Reader & Wannabe Entrepreneur
+Upvote • 3 upvotes by Prashant Kumar Chugh, Bolaj Pooja, and Dhruv Bajpai.
+This might help you. Arka Bhattacharjee's answer to What are the skills that Google and other top level companies look for in a CV before calling a candidate?
+Written 25 Dec. 562 views.
+Upvote3
+Downvote
+Comment
+￼
+Adil Aslam Awan
+Intern at HeySuccess.
+Upvote • 26 upvotes by Ana Jelenković, Moona Balghouthi, Verica Jankova, (more)
+Here is a link for Google internship, once you do it am sure then you can get a chance to get regular job in Google depends on your passion, skills and experience. Google Site Reliability Engineer Intern at Internships - HeySuccess
+Written 26 Feb. 5,154 views.
+Upvote26
+Downvote
+Comment
+￼
+Murugan Raj
+Upvote • 6 upvotes by Ganesh Kumar Pericherla, Sid Ch, Drishti Wali, (more)
+There are couple of Google presentations "The Myth of Genius Programmer" etc. That can help you.
+Written 29 Aug, 2014. 5,811 views.
+Upvote6
+Downvote
+Comment
+￼
+Pregwon Tech
+Upvote • 4 upvotes by Rishab Chirania, Kamal Rao, Aarish Ramesh, (more)
+The quickest way is, try to hack google. if you will get success doing it, they will hire you instantly
+Written 25 Dec. 1,640 views.
+Upvote4
+Downvote
+Comment1
+Originally answered on How can I get a job at Google?
+￼
+Prateek Malik
+Outreach and Marketing Manager at Airwoot. Dynamic professional.
+Upvote
+There are an estimated 5k candidates with similar profile like you in India. 
+
+Recently a guide was revealed by Google Education to make it more clear about the domains of expertise that Google prefers.
+
+Google in Education
+
+With a decent experience, abilities to crack their written tests and a perfect resume to match the applied profile, you are one decent, eligible candidate for their job.
+
+PS - I wonder why you want to work only with Google and not create your own startup after so much experience. Do something so that Google searches for you rather than you searching for Google.
+Timely team at Bitspin was one such example.
+Written 22 Dec. 288 views.
+Upvote
+Downvote
+Comment
+Originally answered on How can I get a job at Google?
+￼
+Maulik Darji
+Upvote • 2 upvotes by Himani Garg and Bolaj Pooja.
+Knowing HTML, CSS and JavaScript won't help. What you should be really knowing is a Language. Any Programming Language like C, C++, JAVA. HTML , CSS and JavaScripts are not programming languages.
+Written 24 Dec. 370 views.
+Upvote2
+Downvote
+Comment1
+￼
+Rohan Prakash
+Travelling, might be unavailable!
+Upvote • 3 upvotes by Shashank Singh, Elbert Dockery, and Mohamed Mahmoud.
+See these links:-
+Get that job at Google
+How to get hired by Google
+https://www.quora.com/search?q=job+at+google
+Written 6 Nov. 584 views.
+Upvote3
+Downvote
+Comment
+￼
+Shashank Singh
+The best object-oriented way to become wealthy is 'INHERITANCE' :D
+Upvote • 2 upvotes by Chandan Cherry and Aaveg Sheth.
+Read Gaurav Jha's answer to this question. He is a software Engineer at Google HQ
+How can I prepare myself to be a software engineer at Google?
+Hope it helps
+Written Wed. 154 views.
+Upvote2
+Downvote
+Comment
+￼
+Anonymous
+Upvote • 3 upvotes by Elbert Dockery, Aditya Chouksey, and Anshul Sharma.
+Get really good at coding, and do lots of projects in your free time.  Google looks for people who are constantly wondering how they can become better software engineers.
+Written 13 Nov. 575 views.
